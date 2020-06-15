@@ -1,2 +1,2 @@
-# Projeto Alexandria
- Biblioteca virtual que reune varios sites de dowloads literarios em pdf
+# Praticandojavascr
+ Voltado exclusivamente para praticar Javascript

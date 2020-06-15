@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100&display=swap');
+
+
+#interface{
+    width: 1200px;
+    background-color: white;
+    margin-left: 60px;
+    height: 1200px;
+    margin-top: 250px;
+
+}
+
+body {
+    text-align: center;
+    
+}
+
+#saga li{
+    display: block;
+    padding: 2px;
+    margin-left: 290px;
+    line-height:20px ;
+    
+}
+#saga ul {
+    margin-top: 400px;
+    
+}
+h1{
+  font-style: italic;
+  ;
+  font-family: 'Architects Daughter', cursive;
+}
+
+ul li{
+    display: inline-block;
+    padding: 20px;
+}
+
+#saga{
+    margin-left: -900px;
+    position: static;
+}
+.link{
+    margin-left: -925px;
+}
+.link2{
+    margin-top: 200px;
+}
+
+#livros{
+    position: relative;
+    margin-left: -90px;
+}
+
+
+
+#menu ul li  {
+    float: left;
+    position: relative;
+    background-color: cornflowerblue;
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    
+    
+    
+    
+}
+
+#menu ul li:hover{
+    background-color: cornsilk;
+}
+#menu ul{
+    padding: 0px;
+    margin-left: 140px;
+    border-radius: 200px;
+}
+#menu ul ul{
+    display: none;
+    margin-left: -20px;
+    margin-top: 20px;
+}
+#menu ul li:hover>ul{
+    display: inline-block;
+}
+
+
+    
+
+
+#historia{
+    margin-left: 2px;
+}
+
+   img{
+    margin-left:-20px;
+    padding: -900px;
+    
+}
+#historia ul li{
+    margin-right: 200px;
+}
+
+.box{
+  border-color:#e8e5dc;
+  border-width: 1px;
+  border-style: solid;
+  font-style: italic;
+  ;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+h3{
+    color: #807e79;
+}
+
+ 
+ #icone{
+     margin-top: -120px;
+     margin-left:1000px;
+ }
